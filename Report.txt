@@ -1,0 +1,47 @@
+ In this project, program developed for solving nonlinear equations. We used Secant and Bisection method for solving equations and our goal was finding solution with the program.These are the equations and solutions that solved by program.
+
+
+Secant Method 						 	
+
+Function 1:x^3-2*x-5=0			x0=0,x1=5 Iteration number is:11 solution is:2.0945516		 
+Function 2:e^(-x)-x=0			x0=1,x1=4 Iteration number is:7  solution is:0.56714326
+Function 3:x*sin(x)-1=0			x0=0,x1=5 Iteration number is:6  solution is:7.5804534		
+Function 4:x^3-3*x^2+3*x-1=0		x0=2,x1=3 Iteration number is:46 solution is:1.0001266
+
+Bisection Method
+		
+Function 1:x^3-2*x-5=0			a=0,b=5 tol=0,001 Iteration number is:13 solution is:2.0941162		 
+Function 2:e^(-x)-x=0			a=1,b=4 tol=0,001 No root
+Function 3:x*sin(x)-1=0			a=0,b=5 tol=0,001 No root	
+Function 4:x^3-3*x^2+3*x-1=0		a=0,b=6 tol=0,001 Iteration number is:13 solution is:0.99975586		
+
+
+
+
+													
+		
+		
+		
+		
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
